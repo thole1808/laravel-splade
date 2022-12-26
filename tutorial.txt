@@ -1,18 +1,23 @@
-- create project laravel => composer create-project laravel/laravel laravel-splade 
+laravel with splade & laravel breeze
+==========================================================
+
+- create project laravel => composer create-project laravel/laravel laravel-splade
 - install composer di folder project => composer require protonemedia/laravel-splade
-- npm install 
+- npm install
 - npm run dev
 - php wajib 8
 
 
-Tutorial Belajar 
+Tutorial Belajar
 ===================
 https://larainfo.com/blogs/install-splade-inertia-magic-blade-in-laravel-9
 
 
-runing project 
+runing project
 ==============
 Run laravel and vite server
 ============================
-php artisan serve 
+php artisan serve
 npm run dev
+
+

@@ -8,3 +8,11 @@
 Tutorial Belajar 
 ===================
 https://larainfo.com/blogs/install-splade-inertia-magic-blade-in-laravel-9
+
+
+runing project 
+==============
+Run laravel and vite server
+============================
+php artisan serve 
+npm run dev

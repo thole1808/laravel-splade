@@ -4,3 +4,7 @@
 - npm run dev
 - php wajib 8
 
+
+Tutorial Belajar 
+===================
+https://larainfo.com/blogs/install-splade-inertia-magic-blade-in-laravel-9
